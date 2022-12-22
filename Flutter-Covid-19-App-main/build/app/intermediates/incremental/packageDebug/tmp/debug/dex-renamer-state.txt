@@ -1,0 +1,4 @@
+#Fri Dec 23 00:37:43 IST 2022
+base.0=R\:\\GitHub\\Flutter-Covid-19-App-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
